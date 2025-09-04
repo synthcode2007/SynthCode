@@ -1,6 +1,6 @@
 # 👾 SynthCode [CYBR]
 
-Hey, I’m **SynthCode [CYBR]** — a software developer driven by **clean code, tight loops**, and late-night focus sessions powered by synthwave.  
+Hey, I’m **SynthCode** — a software developer driven by **clean code, tight loops**, and late-night focus sessions powered by synthwave.  
 
 I treat development like a craft: **logic, rhythm, and iteration guide everything I build**. Most of my time is spent in the terminal with tools that stay out of the way and let me think clearly. I prefer **function over flash, minimalism over noise**, and code that works as hard as I do.  
 
